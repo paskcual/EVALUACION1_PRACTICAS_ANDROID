@@ -1,0 +1,4 @@
+#Mon Sep 17 19:59:52 MDT 2018
+base.0=C\:\\Users\\Pascual\\Documents\\Estudios\\Programacion\\Proyectos Android\\EVA1_3_LINEAR_LAYOUT\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
