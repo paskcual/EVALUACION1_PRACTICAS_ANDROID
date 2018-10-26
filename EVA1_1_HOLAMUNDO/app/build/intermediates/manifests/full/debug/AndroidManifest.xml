@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.jesusgaray.holamundo"
+    package="com.pkdevelopers.eva1_1_holamundo"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="23"
+        android:minSdkVersion="22"
         android:targetSdkVersion="27" />
 
     <application
@@ -16,7 +16,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.jesusgaray.holamundo.MainActivity" >
+        <activity android:name="com.pkdevelopers.eva1_1_holamundo.Main" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

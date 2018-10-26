@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Pascual\\Documents\\Estudios\\Programacion\\Proyectos Android\\EVA1_1_HOLAMUNDO\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "outputFile": "C:\\Users\\Pascual\\Desktop\\evaluacion1_appsmoviles_15551883\\EVA1_1_HOLAMUNDO\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Pascual\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\6f83d92c24ab67d951e3808c5da1bb3a\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\Pascual\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d32293f5d45ea54984537cedde011fcc\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

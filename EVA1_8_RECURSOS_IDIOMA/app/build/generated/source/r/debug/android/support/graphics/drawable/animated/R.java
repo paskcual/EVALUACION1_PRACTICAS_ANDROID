@@ -83,11 +83,11 @@ public final class R {
         public static final int bottom = 0x7f070021;
         public static final int chronometer = 0x7f070028;
         public static final int end = 0x7f070035;
-        public static final int forever = 0x7f07003e;
-        public static final int icon = 0x7f070043;
-        public static final int icon_group = 0x7f070044;
-        public static final int info = 0x7f070047;
-        public static final int italic = 0x7f070049;
+        public static final int forever = 0x7f07003b;
+        public static final int icon = 0x7f070040;
+        public static final int icon_group = 0x7f070041;
+        public static final int info = 0x7f070044;
+        public static final int italic = 0x7f070046;
         public static final int left = 0x7f07004a;
         public static final int line1 = 0x7f07004b;
         public static final int line3 = 0x7f07004c;

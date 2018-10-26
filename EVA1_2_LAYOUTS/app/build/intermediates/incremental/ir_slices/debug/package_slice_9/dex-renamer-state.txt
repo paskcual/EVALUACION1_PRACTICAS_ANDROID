@@ -1,4 +1,0 @@
-#Tue Aug 28 11:21:34 MDT 2018
-base.0=C\:\\Users\\Pascual\\Documents\\Estudios\\Programacion\\EVA1_2_LAYOUTS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
-path.0=classes.dex
-renamed.0=classes.dex

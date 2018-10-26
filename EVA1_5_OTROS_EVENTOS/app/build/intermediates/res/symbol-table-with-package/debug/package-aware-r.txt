@@ -1,4 +1,4 @@
-com.example.jesusgaray.eva1_5_otros_eventos
+com.pkdevelopers.eva1_1_holamundo
 int anim abc_fade_in 0x7f010000
 int anim abc_fade_out 0x7f010001
 int anim abc_grow_fade_in_from_bottom 0x7f010002
@@ -727,12 +727,12 @@ int id percent 0x7f070058
 int id progress_circular 0x7f070059
 int id progress_horizontal 0x7f07005a
 int id radio 0x7f07005b
-int id rdBtnHamburguesas 0x7f07005c
-int id rdBtnMontados 0x7f07005d
-int id rdBtnTacos 0x7f07005e
-int id rdBtnTamales 0x7f07005f
-int id rdBtnTortas 0x7f070060
-int id rdGrpOpciones 0x7f070061
+int id rdGrpOpciones 0x7f07005c
+int id rdbHamb 0x7f07005d
+int id rdbMontado 0x7f07005e
+int id rdbTacos 0x7f07005f
+int id rdbTamales 0x7f070060
+int id rdbTortas 0x7f070061
 int id right 0x7f070062
 int id right_icon 0x7f070063
 int id right_side 0x7f070064
@@ -816,7 +816,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f090017
 int layout abc_search_view 0x7f090018
 int layout abc_select_dialog_material 0x7f090019
 int layout abc_tooltip 0x7f09001a
-int layout activity_principal 0x7f09001b
+int layout activity_main 0x7f09001b
 int layout notification_action 0x7f09001c
 int layout notification_action_tombstone 0x7f09001d
 int layout notification_template_custom_big 0x7f09001e
